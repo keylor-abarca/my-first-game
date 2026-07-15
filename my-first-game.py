@@ -1,6 +1,6 @@
 import random
 
-print("bienvenido a adivina el numero!")
+print("Hola, bienvenido a mi primer juego adivina el numero!")
 name = input("cual es tu nombre:")
 print("hola", name)
 
